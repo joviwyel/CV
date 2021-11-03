@@ -1,0 +1,28 @@
+
+body{
+  background-color: #F3F4ED;
+}
+
+/* hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width:5px;
+  width:4%;
+} */
+h1{
+  color: #03506F;
+}
+
+h3{
+  color: #03506F;
+}
+p{
+  color: #03506F;
+}
+td{
+  color: #03506F;
+}
+thead{
+  color: #03506F;
+}
